@@ -1,0 +1,35 @@
+Existem alguns comandos básicos que podem te ajudar no Sistema ApoloDos, 
+existem multiplas funções que foram inspiradas em CMD. Daremos os creditos a alguns
+comandos do CMD e o Sistema Operacional Baseado em batch
+
+
+O argumento [<text>] significa que é obrigatorio.
+O argumento <text> significa que não é obrigatorio.
+A string "..." significa que os argumentos são indeteminaveis.
+
+Comandos::
+
+say [<text>] ...
+Mostra [<text>] ... na tela.
+
+get-ip
+Obtem seu ip.
+
+break
+Dá uma pausa.
+
+files
+Mostra todos os arquivos no CD.
+
+set [<text>] [<text>]
+Seta uma variavel,
+
+kill [<text>]
+Fecha um processo de nome [<text>]
+
+start [<text>]
+Inicia um processo de nome [<text>]
+
+P.S : o APL é usado para comandos customizaveis pela ApoloServices então os comandos acima 
+também existem no seu sistema mas claro são poucos pois é uma linguagem de programação 
+sendo propríos

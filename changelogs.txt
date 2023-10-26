@@ -1,0 +1,10 @@
+1.0.0
+Primeira versão do debugger
+Comandos adicionados:
+get-ip
+break
+say
+files
+set
+kill
+start
